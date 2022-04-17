@@ -1,0 +1,38 @@
+markdown: kramdown
+kramdown:
+  input: GFM
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+  enable_coderay: true
+  syntax_highlighter: coderay
+  highlighter: rouge
+  syntax_highlighter_opts:
+    line_numbers:  nil
+
+
+paginate: 20
+paginate_path: "page/:num"
+permalink: blog/:year/:month/:day/:title.html
+encoding: utf-8
+future: true
+lsi: false
+safe: false
+plugins: [jekyll-paginate]
+
+blog:
+    name: 大侠
+    description: 一切果的结构，是对其形成过程中因的顺序执行的探寻
+    title: 大侠的博客
+    url: tuchongyang.github.io
+    duoshuo: xia
+    tongji: xia
+    qiniu: # 七牛云地址
+author:
+    name: huangwenxia
+    email: 892027354@qq.com
+    weibo: https://weibo.com/huangwe123nxia
+    github: https://github.com/huangwenxia
+    logo: /res/img/psb.jpg
+          
