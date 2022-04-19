@@ -197,14 +197,14 @@ a:link {
 .header .wraper{
 	width:1200px;
 	margin:0 auto;
-	padding: 20px 0;
+	padding: 5px 0;
 	overflow: hidden;
 }
 .header .logo{
 	float:left;
 }
 .header .logo img{
-	height: 50px;
+	height: 60px;
 }
 .header .menu{
 	float: right;
