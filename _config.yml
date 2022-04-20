@@ -23,7 +23,7 @@ plugins: [jekyll-paginate]
 
 blog:
     name: 侠
-    description: 一切果的结构，是对其形成过程中因的顺序执行的探寻
+    description: 一切果的解构，是对其形成过程中因的顺序执行的探寻
     title: 侠的博客
     url: huangwenxia.github.io
     duoshuo: xia
